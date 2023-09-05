@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @JHOODRELL
-- 👀 Me interesa el desarrollo web, especificamente en front-end.
-- 🌱 Actualmente estoy aprendiendo JS, y quiero aprenderlo por completo.
-- 💞️ Busco colaborar en todos los proyectos que pueda, asi puedo aprender y ampliar mis conocimientos en el desarrollo web.
-- 📫 Mi ig es @whos__jhodrell
+Autor: Jodrell Antonio Polanco Garcia
+Correo: jhodrellg3@gmail.com
+Actulizado: 5/09/2023
+Nota: Aqui se encuentran todos mis proyectos web.
